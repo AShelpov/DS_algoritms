@@ -1,1 +1,1 @@
-# DS_algoritms
+# DS_algoritmsEach homework in each branch
